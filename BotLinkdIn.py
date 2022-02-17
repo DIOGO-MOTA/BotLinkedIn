@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver = webdriver.Chrome('C:/Users/Mariya/chromedriver.exe')
+driver = webdriver.Chrome('C:/Users/graficapc/Documents/Bot LinkedIn/chromedriver.exe')
 driver.get('https://www.linkedin.com')
 time.sleep(2)
 
